@@ -1,11 +1,119 @@
 [[redirects]]
   from = "https://pick-the-original.com"
-  to = "https://schubert.group"
+  to = "https://www.schubert.group/de/pick-the-original"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://pick-the-original.de"
-  to = "https://schubert.group"
+  to = "https://www.schubert.group/de/pick-the-original"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/digitale-services"
+  to = "https://www.schubert.group/de/pick-the-original/digitale-services"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/digitale-services"
+  to = "https://www.schubert.group/de/pick-the-original/digitale-services"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/roboterwerkzeuge"
+  to = "https://www.schubert.group/de/pick-the-original/roboterwerkzeuge"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/roboterwerkzeuge"
+  to = "https://www.schubert.group/de/pick-the-original/roboterwerkzeuge"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/baukastensystem"
+  to = "https://www.schubert.group/de/pick-the-original/baukastensystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/baukastensystem"
+  to = "https://www.schubert.group/de/pick-the-original/baukastensystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/vision-system"
+  to = "https://www.schubert.group/de/pick-the-original/vision-system"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/vision-system"
+  to = "https://www.schubert.group/de/pick-the-original/vision-system"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/familienunternehmen"
+  to = "https://www.schubert.group/de/pick-the-original/familienunternehmen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/familienunternehmen"
+  to = "https://www.schubert.group/de/pick-the-original/familienunternehmen"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/flexibel"
+  to = "https://www.schubert.group/de/pick-the-original/flexibel"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/flexibel"
+  to = "https://www.schubert.group/de/pick-the-original/flexibel"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/innovativ"
+  to = "https://www.schubert.group/de/pick-the-original/innovativ"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/innovativ"
+  to = "https://www.schubert.group/de/pick-the-original/innovativ"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/oee"
+  to = "https://www.schubert.group/de/pick-the-original/oee"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/oee"
+  to = "https://www.schubert.group/de/pick-the-original/oee"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.com/dotlock"
+  to = "https://www.schubert.group/de/pick-the-original/dotlock"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pick-the-original.de/dotlock"
+  to = "https://www.schubert.group/de/pick-the-original/dotlock"
   status = 301
   force = true

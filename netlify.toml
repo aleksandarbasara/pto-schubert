@@ -1,11 +1,11 @@
 [[redirects]]
   from = "https://pick-the-original.com"
-  to = "https://schubert.com"
+  to = "https://schubert.group"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://pick-the-original.de"
-  to = "https://schubert.com"
+  to = "https://schubert.group"
   status = 301
   force = true
